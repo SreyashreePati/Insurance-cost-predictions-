@@ -1,2 +1,3 @@
 # Insurance-cost-predictions-
-"Aims to predict insurance costs based on individual attributes using machine learning techniques,  The analysis seeks to provide accurate cost predictions, helping insurance companies to assess risk and set premium amounts efficiently."
+"This project aims to predict insurance costs based on individual attributes using machine learning techniques. The goal is to develop a model that can estimate insurance premiums by analyzing features such as age, gender, BMI, smoking status, number of dependents, and region of residence. The process involves data preprocessing, feature engineering, and applying machine learning algorithms like linear regression, decision trees, or random forest to train the model. The analysis seeks to provide accurate cost predictions, helping insurance companies to assess risk and set premium amounts efficiently."
+
